@@ -11,5 +11,8 @@
     "url": "https://github.com/lettiChop/little-lemon.git"
   },
   "author": "AGA",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
